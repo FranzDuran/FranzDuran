@@ -1,16 +1,16 @@
-### Hi there 👋
+<img  src="https://clongrafico.com/wp-content/uploads/2019/08/diseno-paginas-web-madrid.gif">
+<h1 align="center">Hola! Me llamo Franz Duran.</h1>
 
-<!--
-**FranzDuran/FranzDuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Actualmente soy estudiante del BootCamp Soy Henry🧑‍🚀, en estos últimos 6 meses he mejorado mucho mis habilidades en la programación.
+    Aprendí a crear paginas y aplicaciones web, cree un aplicacion de Pokemons (POKEMON API), tanto el Front como backEnd, y realice un trabajo grupal que fue la creación de un e-commerce.
+</h3>
+<h3>
+    Me siento bastante seguro de todo lo que logré, y estoy ansioso por seguir mejorando mis habilidades🏋️‍♀️.
+</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Mis Skills:</h2>
+
+<img src="./img/skills.png" alt="">
+
+<a href="https://www.linkedin.com/in/nestor-novella-1125b3215/">👉Linkedin...👀 💪</a>
