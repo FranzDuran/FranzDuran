@@ -13,4 +13,4 @@
 
 <img src="./skills.png" alt="">
 
-<a href="www.linkedin.com/in/franz-duran">👉Linkedin...👀 💪</a>
+<h3> Como contactarme:  franzduran.fd@gmail.com </h3>
