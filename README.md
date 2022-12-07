@@ -11,6 +11,6 @@
 
 <h2>Mis Skills:</h2>
 
-<img src="./img/skills.png" alt="">
+<img src="./skills.png" alt="">
 
-<a href="https://www.linkedin.com/in/nestor-novella-1125b3215/">👉Linkedin...👀 💪</a>
+<a href="www.linkedin.com/in/franz-duran">👉Linkedin...👀 💪</a>
